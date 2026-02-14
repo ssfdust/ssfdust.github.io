@@ -1,1 +1,0 @@
-import{_ as e,c as s,j as a,o}from"./chunks/framework.BrGMoIXL.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"test.md","filePath":"test.md"}'),r={name:"test.md"};function n(l,t,c,d,p,i){return o(),s("div",null,t[0]||(t[0]=[a("p",null,"Hello, World!",-1)]))}const f=e(r,[["render",n]]);export{_ as __pageData,f as default};
